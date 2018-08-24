@@ -1,0 +1,5 @@
+# coding=utf-8
+sons = ["姚日天", "左红章", "黄狗"]
+print(sons[1])
+input_sentence = input("输入你想要输入的东西:")
+print(input_sentence)
